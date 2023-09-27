@@ -1,0 +1,31 @@
+o raciocínio por trás da escolha de cada entidade:
+
+Planeta Alien: É o local de origem dos antagonistas da história, os alienígenas que destruíram a Terra. É uma parte fundamental do cenário do jogo.
+
+Alienígenas: São os principais antagonistas da história, pois são responsáveis pela destruição da Terra e são os inimigos que o Furão Mutante Guerreiro deve enfrentar.
+
+Terra: É o planeta natal dos humanos e mamíferos, além de ser o local onde ocorreu a destruição. É uma parte importante da história, pois fornece o contexto inicial.
+
+Linguagens de Programação e Marcação: HTML, CSS e JavaScript são mencionados como as linguagens que os alienígenas aprenderam da Terra. Isso é relevante, pois essas linguagens se tornam elementos-chave nas missões do Furão Mutante Guerreiro.
+
+Mamíferos Mutantes: São os mamíferos que foram mutados pelos alienígenas usando tecnologia alienígena e as linguagens da Terra. Eles são uma parte crucial da história, pois representam os personagens mutantes e o que motiva o Furão a se rebelar.
+
+Furão Mutante Guerreiro: É o herói da história e o personagem principal. Sua jornada de rebelião contra os alienígenas e o resgate de seus amigos terrestres é o foco da narrativa.
+
+Memória do Furão: As memórias do Furão Mutante Guerreiro são importantes, pois elas desempenham um papel fundamental em sua revolta contra os aliens, fornecendo uma justificativa para suas ações.
+
+Missões: As missões são o cerne da jogabilidade do software, e cada uma delas representa um desafio que o jogador deve superar. Elas também estão diretamente relacionadas às tecnologias da Terra que os aliens aprenderam.
+
+Níveis de Força: Os níveis de força estão ligados às missões e mostram o progresso do jogador. Eles também estão relacionados com a evolução do Furão Mutante Guerreiro ao longo da história.
+
+Inimigos: Os inimigos representam obstáculos que o Furão deve superar em cada missão e estão ligados às tecnologias da Terra que os aliens aprenderam.
+
+Amigos Terrestres: São os personagens que o Furão Mutante Guerreiro espera resgatar após completar todas as missões, criando um objetivo claro para a história.
+
+Novo Planeta: O objetivo final do Furão Mutante Guerreiro de construir um novo planeta com justiça e paz é a conclusão da narrativa e fornece uma resolução para a história.
+
+
+
+
+
+
